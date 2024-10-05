@@ -1,4 +1,4 @@
-# Hamburgueria
+# Samuka's Burguer
 
 Primeiro site feito apenas usando HTML, CSS, TailwindCSS e JavaScript.
 
